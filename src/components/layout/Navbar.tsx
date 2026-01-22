@@ -48,7 +48,7 @@ export default function Navbar() {
       {/* NAVBAR */}
       <header className="fixed top-0 z-30 w-full bg-white md:bg-white/90 backdrop-blur border-b border-gray-200">
         <div className="h-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between gap-4">
-          <Link href="/" className="font-bold uppercase text-xl hidden md:block">
+          <Link href="/" className=" font-bold uppercase text-xl hidden lg:block">
             Products
           </Link>
 
